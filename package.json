@@ -1,0 +1,17 @@
+{
+    "name": "@ricardocanelas/rocketseat-omnistack",
+    "private": true,
+    "workspaces": {
+        "packages": [
+            "packages/*"
+        ]
+    },
+    "scripts": {
+        "dev": "concurrently -n dev:server,dev:web --kill-others \"yarn dev:server\" \"yarn dev:web\"",
+        "dev:server": "yarn workspace @ricardocanelas/rocketseat-omnistack-server dev",
+        "dev:web": "yarn workspace @ricardocanelas/rocketseat-omnistack-web start"
+    },
+    "dependencies": {
+        "concurrently": "^4.1.0"
+    }
+}
