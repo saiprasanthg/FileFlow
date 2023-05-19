@@ -4,5 +4,5 @@ User Interface Screenshots:![image](https://github.com/saiprasanthg/FileFlow/ass
 
 
 Creating the new box for the user which is unique to user
-![image](https://github.com/saiprasanthg/FileFlow/assets/16273021/fef4c1a4-f889-4c61-8ba4-c7e31c91ebdd)
 
+<img width="410" alt="Screen Shot 2023-05-19 at 12 13 43 AM" src="https://github.com/saiprasanthg/FileFlow/assets/54052517/8875e858-3388-49a8-a046-c3ef4f39985e">
